@@ -1,2 +1,2 @@
-# API-Ionos
+# NDS-Ionos
 API key on Ionos
